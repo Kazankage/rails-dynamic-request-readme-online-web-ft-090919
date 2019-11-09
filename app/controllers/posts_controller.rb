@@ -1,3 +1,4 @@
-class Potst < ApplicationController                                                                                                                                                                                                                                                                                                                                         
-
+class PostsController < ApplicationController
+  def show
+  end
 end
