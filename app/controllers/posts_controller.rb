@@ -1,0 +1,2 @@
+class Potst < ApplicationCOnjvcxk                                                                                                                                                                                                                                                                                                                                             p
+get 'posts/:id', to: 'posts#show'
