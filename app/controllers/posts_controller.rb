@@ -1,4 +1,3 @@
-class Potst < ApplicationController                                                                                                                                                                                                                                                                                                                                          
-get 'posts/:id', to: 'posts#show'
+class Potst < ApplicationController                                                                                                                                                                                                                                                                                                                                         
 
 end
